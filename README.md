@@ -1,3 +1,9 @@
+my first React App.
+
+Tutorial: https://www.youtube.com/watch?v=MzJkWO73S70&list=PLX8Rsrpnn3IVOk48awq_nKW0aFP0MGpnn&index=1
+
+Thank you @deatiger
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
